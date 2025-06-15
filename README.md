@@ -33,8 +33,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-0_RFDTLyjc)
+- Live Site URL: [Add live site URL here](https://frontend-mentor-projects-qr-code-co.vercel.app/)
 
 ## My process
 
@@ -46,6 +46,6 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## Author
 
-- Website - [Farzaneh Kazemi](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- StackOverflow - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Farzaneh Kazemi](https://verdant-bienenstitch-220a6d.netlify.app/)
+- Frontend Mentor - [@Farzane2630](https://www.frontendmentor.io/profile/Farzane2630)
+- StackOverflow - [@yourusername](https://stackoverflow.com/users/19888516/farzane-kazemi)
